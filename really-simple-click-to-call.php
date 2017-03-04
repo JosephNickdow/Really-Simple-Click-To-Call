@@ -4,7 +4,7 @@
 Plugin Name: Really Simple Click To Call
 Plugin URI: http://joenickdow.com
 Description: Add a simple click to call bar to the bottom of your page on mobile devices.
-Version: 1.0.1
+Version: 1.0.2
 Author: Joseph Nickdow
 Author URI: http://joenickdow.com
 License: License: GPLv2 or later

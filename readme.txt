@@ -55,3 +55,6 @@ Initial Launch
 
 = 1.0.1 =
 Updated Documentation
+
+= 1.0.2 =
+Removed Text Underline for Links

@@ -61,10 +61,12 @@
         z-index: 10000;
         height: 50px;
         font-size: 18px;
-        line-height: 50px
+        line-height: 50px;
+        text-decoration: none !important;
     }
     #click_to_call_bar a {
         color: white;
+        text-decoration: none !important;
     }
     #click_to_call_bar:hover {
         text-decoration: none !important;
