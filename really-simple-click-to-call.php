@@ -161,10 +161,7 @@ function click_to_call_code() {
     if ($options['click_to_call_enable'] == '1') {
         echo '<a href="tel:' . $options['click_to_call_number'] . '" onclick="ga(\'send\',\'event\',\'Phone\',\'Click To Call\', \'Phone\')"; style="color:' . $options['click_to_call_color'] . '; background-color:' . $options['click_to_call_bg'] . ';" class="ctc_bar" id="click_to_call_bar""> <span class="icon icon-phone"></span>' . $options['click_to_call_message'] . '</a>';
         wp_enqueue_style('ctc-styles', plugin_dir_url( __FILE__ ) . 'css/ctc_style.css' );
-    } else {
-        echo '';
-    }
-
+    } 
 }
 
 // Display Admin Form
