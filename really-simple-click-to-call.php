@@ -34,7 +34,7 @@ function ctc_add_color_picker( $hook ) {
     }
 }
 
-// Add to Menu > Tools
+// Add to Menu > Settings
 
 function click_to_call_add_admin_menu(  ) {
 
